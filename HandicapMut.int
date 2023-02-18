@@ -1,0 +1,2 @@
+[Public]
+Object=(Name=HandicapMut.HandicapMutator,Class=Class,MetaClass=Engine.Mutator,Description="Adjusts player damage based on kill ratio and grants various equalizers to worse-off players.")
